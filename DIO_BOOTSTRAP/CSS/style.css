@@ -6,3 +6,16 @@
 body,html{
     height: 100%;
 }
+
+/** section cursos **/
+
+.cursos{
+    background-color: #8181f7;
+}
+
+.margin{
+    padding-top: 50px;
+}
+
+
+
