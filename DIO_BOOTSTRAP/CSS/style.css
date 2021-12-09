@@ -35,5 +35,28 @@ body,html{
     padding: 10px;
 }
 
+#roda-pé{
+    background-color: #8181f7;
+}
 
+#roda-pé .conteiner .row{
+    width: 100%;
+    padding: 50px;
+}
 
+#roda-pé .conteiner .row h3{
+    width: 100%;
+    padding: 20px;
+}
+
+#roda-pé .conteiner .row p{
+    width: 100%;
+    padding: 20px;
+    text-align: right;
+}
+
+#menu-2{
+    width: 100%;
+    margin: 30px;
+    padding-left: 500px;
+}
