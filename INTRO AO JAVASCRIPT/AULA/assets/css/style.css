@@ -8,3 +8,45 @@
 html,body{
     height: 100%;
 }
+
+.conteiner{
+    display: flex;
+    display: inline-block;
+    margin-top: 100px;
+    width: 100%;
+    text-align: center;
+}
+
+.conteiner h1{
+    font-size: 100px;
+    font-style: italic;
+}
+
+.conteiner p{
+    padding-top: 5px;
+    font-size: 50px;
+}
+
+#counter{
+    display: inline-flex;
+    display: inline-block;
+    align-content: space-between;
+    width: 100%;
+}
+
+.btn1{
+    width: 200px;
+    height: 50px;
+    margin-top: 10px;
+    margin: 20px;
+    font-size: 40px;
+    color: rgb(243, 98, 98);
+    cursor: pointer;
+    border-radius: 20px;
+    background-color: thistle;
+}
+
+#currentNumber{
+    margin: 200px;
+    font-size: 30px;
+}
